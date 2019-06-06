@@ -2,4 +2,4 @@
 
 Testing Git and GitHub. Woot!
 
-This is my conflicting line.
+Testing merge conflicts. So exciting!
